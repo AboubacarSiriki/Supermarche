@@ -1,0 +1,7 @@
+{
+    "name": "mon-projet",
+    "description": "Description de mon projet",
+    "require": {
+        "vendor/nom-package": "version"
+    }
+}
